@@ -1,1022 +1,240 @@
-},
-  "ClassPlans": {
-    "d3c17be9-a62c-4df1-aed1-56cb1dfcde57": {
-      "TimeLayoutId": "ee071a7a-52eb-4259-b409-f525120aa70a",
-      "TimeRule": {
-        "WeekDay": 1,
-        "WeekCountDiv": 0,
-        "WeekCountDivTotal": 2,
-        "IsActive": false
-      },
-      "Classes": [
-        {
-          "SubjectId": "885d7282-d094-4920-893a-77bdb4596be8",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "cc74d340-f5b7-4b87-9332-bf65cae887ca",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "bd45f4d1-13b1-4099-87c5-ccea2e3f6dd1",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "3903902c-af75-4ef2-910b-88f1b57071e6",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "72b649a5-3294-4dca-be98-5b73c5e8ade0",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "66719bff-c5ba-495d-88a4-9c81bad942e7",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "05f62a40-463e-4aa4-8559-06be779ae4d6",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "fa4e51f2-78f9-45cc-a0c0-cb192630f4ea",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "fa4e51f2-78f9-45cc-a0c0-cb192630f4ea",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        }
-      ],
-      "Name": "新课表",
-      "IsOverlay": false,
-      "OverlaySourceId": null,
-      "OverlaySetupTime": "2026-09-03T22:07:44.9580456+08:00",
-      "IsEnabled": true,
-      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+ },
+  "Subjects": {
+    "cc74d340-f5b7-4b87-9332-bf65cae887ca": {
+      "Name": "语文",
+      "Initial": "语",
+      "TeacherName": "杜燕君",
+      "IsOutDoor": false,
       "AttachedObjects": {
 
       },
       "IsActive": false
     },
-    "dc620954-0a89-42ed-ac89-bfdf44336f6b": {
-      "TimeLayoutId": "ee071a7a-52eb-4259-b409-f525120aa70a",
-      "TimeRule": {
-        "WeekDay": 2,
-        "WeekCountDiv": 2,
-        "WeekCountDivTotal": 2,
-        "IsActive": false
-      },
-      "Classes": [
-        {
-          "SubjectId": "bd45f4d1-13b1-4099-87c5-ccea2e3f6dd1",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "885d7282-d094-4920-893a-77bdb4596be8",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "05f62a40-463e-4aa4-8559-06be779ae4d6",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "fa4e51f2-78f9-45cc-a0c0-cb192630f4ea",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "0c859448-e8b9-4596-8417-4c427e6b742b",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "cc74d340-f5b7-4b87-9332-bf65cae887ca",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "66719bff-c5ba-495d-88a4-9c81bad942e7",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "bd45f4d1-13b1-4099-87c5-ccea2e3f6dd1",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "9e0fc9ea-8322-4c17-8505-b8f77dc723ba",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        }
-      ],
-      "Name": "新课表",
-      "IsOverlay": false,
-      "OverlaySourceId": null,
-      "OverlaySetupTime": "2026-09-03T22:07:45.0272728+08:00",
-      "IsEnabled": true,
-      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+    "885d7282-d094-4920-893a-77bdb4596be8": {
+      "Name": "数学",
+      "Initial": "数",
+      "TeacherName": "郑赛琴",
+      "IsOutDoor": false,
       "AttachedObjects": {
 
       },
       "IsActive": false
     },
-    "5041922e-f500-4098-9f1a-cf01cbbf89d6": {
-      "TimeLayoutId": "ee071a7a-52eb-4259-b409-f525120aa70a",
-      "TimeRule": {
-        "WeekDay": 2,
-        "WeekCountDiv": 1,
-        "WeekCountDivTotal": 2,
-        "IsActive": false
-      },
-      "Classes": [
-        {
-          "SubjectId": "bd45f4d1-13b1-4099-87c5-ccea2e3f6dd1",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "885d7282-d094-4920-893a-77bdb4596be8",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "05f62a40-463e-4aa4-8559-06be779ae4d6",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "3fff8fcd-5ee8-42be-a783-63b55af684f9",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "0c859448-e8b9-4596-8417-4c427e6b742b",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "cc74d340-f5b7-4b87-9332-bf65cae887ca",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "66719bff-c5ba-495d-88a4-9c81bad942e7",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "bd45f4d1-13b1-4099-87c5-ccea2e3f6dd1",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "9e0fc9ea-8322-4c17-8505-b8f77dc723ba",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        }
-      ],
-      "Name": "新课表",
-      "IsOverlay": false,
-      "OverlaySourceId": null,
-      "OverlaySetupTime": "2026-09-03T22:07:45.0318095+08:00",
-      "IsEnabled": true,
-      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+    "bd45f4d1-13b1-4099-87c5-ccea2e3f6dd1": {
+      "Name": "英语",
+      "Initial": "英",
+      "TeacherName": "陈丽平",
+      "IsOutDoor": false,
       "AttachedObjects": {
 
       },
       "IsActive": false
     },
-    "e6316585-6901-41ad-8419-769385fb08c2": {
-      "TimeLayoutId": "ee071a7a-52eb-4259-b409-f525120aa70a",
-      "TimeRule": {
-        "WeekDay": 3,
-        "WeekCountDiv": 0,
-        "WeekCountDivTotal": 2,
-        "IsActive": false
-      },
-      "Classes": [
-        {
-          "SubjectId": "3903902c-af75-4ef2-910b-88f1b57071e6",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "bd45f4d1-13b1-4099-87c5-ccea2e3f6dd1",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "8c1e3adc-2bb8-4dfe-8bd9-e60288cdc964",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "cc74d340-f5b7-4b87-9332-bf65cae887ca",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "66719bff-c5ba-495d-88a4-9c81bad942e7",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "885d7282-d094-4920-893a-77bdb4596be8",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "19b0a703-f140-4c38-9601-1fb857e38018",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "66719bff-c5ba-495d-88a4-9c81bad942e7",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "05f62a40-463e-4aa4-8559-06be779ae4d6",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        }
-      ],
-      "Name": "新课表",
-      "IsOverlay": false,
-      "OverlaySourceId": null,
-      "OverlaySetupTime": "2026-09-03T22:07:45.0323329+08:00",
-      "IsEnabled": true,
-      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+    "8c1e3adc-2bb8-4dfe-8bd9-e60288cdc964": {
+      "Name": "历史",
+      "Initial": "历",
+      "TeacherName": "徐秀琴",
+      "IsOutDoor": false,
       "AttachedObjects": {
 
       },
       "IsActive": false
     },
-    "be82749a-f8ce-49fd-b20b-9863412adc01": {
-      "TimeLayoutId": "ee071a7a-52eb-4259-b409-f525120aa70a",
-      "TimeRule": {
-        "WeekDay": 3,
-        "WeekCountDiv": 1,
-        "WeekCountDivTotal": 2,
-        "IsActive": false
-      },
-      "Classes": [
-        {
-          "SubjectId": "3903902c-af75-4ef2-910b-88f1b57071e6",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "bd45f4d1-13b1-4099-87c5-ccea2e3f6dd1",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "8c1e3adc-2bb8-4dfe-8bd9-e60288cdc964",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "cc74d340-f5b7-4b87-9332-bf65cae887ca",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "66719bff-c5ba-495d-88a4-9c81bad942e7",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "885d7282-d094-4920-893a-77bdb4596be8",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "19b0a703-f140-4c38-9601-1fb857e38018",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "66719bff-c5ba-495d-88a4-9c81bad942e7",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "05f62a40-463e-4aa4-8559-06be779ae4d6",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        }
-      ],
-      "Name": "新课表",
-      "IsOverlay": false,
-      "OverlaySourceId": null,
-      "OverlaySetupTime": "2026-09-03T22:07:45.0326966+08:00",
-      "IsEnabled": true,
-      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+    "0c859448-e8b9-4596-8417-4c427e6b742b": {
+      "Name": "政治",
+      "Initial": "政",
+      "TeacherName": "陈莹莹",
+      "IsOutDoor": false,
       "AttachedObjects": {
 
       },
       "IsActive": false
     },
-    "85f7fe1a-3bfb-4d11-b205-03eb783b7d90": {
-      "TimeLayoutId": "ee071a7a-52eb-4259-b409-f525120aa70a",
-      "TimeRule": {
-        "WeekDay": 4,
-        "WeekCountDiv": 0,
-        "WeekCountDivTotal": 2,
-        "IsActive": false
-      },
-      "Classes": [
-        {
-          "SubjectId": "8c1e3adc-2bb8-4dfe-8bd9-e60288cdc964",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "bd45f4d1-13b1-4099-87c5-ccea2e3f6dd1",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "cc74d340-f5b7-4b87-9332-bf65cae887ca",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "05f62a40-463e-4aa4-8559-06be779ae4d6",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "885d7282-d094-4920-893a-77bdb4596be8",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "35b44bac-609b-4e2c-b9e8-325055d36dec",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "cc74d340-f5b7-4b87-9332-bf65cae887ca",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "72b649a5-3294-4dca-be98-5b73c5e8ade0",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "0c859448-e8b9-4596-8417-4c427e6b742b",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        }
-      ],
-      "Name": "新课表",
-      "IsOverlay": false,
-      "OverlaySourceId": null,
-      "OverlaySetupTime": "2026-09-03T22:07:45.0331601+08:00",
-      "IsEnabled": true,
-      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+    "05f62a40-463e-4aa4-8559-06be779ae4d6": {
+      "Name": "物理",
+      "Initial": "物",
+      "TeacherName": "黄俊杰",
+      "IsOutDoor": false,
       "AttachedObjects": {
 
       },
       "IsActive": false
     },
-    "d100787a-525f-4f87-b035-8d1ac5b55475": {
-      "TimeLayoutId": "ee071a7a-52eb-4259-b409-f525120aa70a",
-      "TimeRule": {
-        "WeekDay": 4,
-        "WeekCountDiv": 2,
-        "WeekCountDivTotal": 2,
-        "IsActive": false
-      },
-      "Classes": [
-        {
-          "SubjectId": "0c859448-e8b9-4596-8417-4c427e6b742b",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "bd45f4d1-13b1-4099-87c5-ccea2e3f6dd1",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "cc74d340-f5b7-4b87-9332-bf65cae887ca",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "8c1e3adc-2bb8-4dfe-8bd9-e60288cdc964",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "885d7282-d094-4920-893a-77bdb4596be8",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "66719bff-c5ba-495d-88a4-9c81bad942e7",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "cc74d340-f5b7-4b87-9332-bf65cae887ca",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "05f62a40-463e-4aa4-8559-06be779ae4d6",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "00000000-0000-0000-0000-000000000000",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        }
-      ],
-      "Name": "新课表",
-      "IsOverlay": false,
-      "OverlaySourceId": null,
-      "OverlaySetupTime": "2026-09-03T22:07:45.0335934+08:00",
-      "IsEnabled": true,
-      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+    "19b0a703-f140-4c38-9601-1fb857e38018": {
+      "Name": "化学",
+      "Initial": "化",
+      "TeacherName": "吴海平",
+      "IsOutDoor": false,
       "AttachedObjects": {
 
       },
       "IsActive": false
     },
-    "0245a35d-c8e2-46a6-848c-412916348cbb": {
-      "TimeLayoutId": "ee071a7a-52eb-4259-b409-f525120aa70a",
-      "TimeRule": {
-        "WeekDay": 5,
-        "WeekCountDiv": 0,
-        "WeekCountDivTotal": 2,
-        "IsActive": false
-      },
-      "Classes": [
-        {
-          "SubjectId": "885d7282-d094-4920-893a-77bdb4596be8",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "cc74d340-f5b7-4b87-9332-bf65cae887ca",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "3903902c-af75-4ef2-910b-88f1b57071e6",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "1dadb997-f814-46c7-bb33-c1fad85e58bd",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "72b649a5-3294-4dca-be98-5b73c5e8ade0",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "bd45f4d1-13b1-4099-87c5-ccea2e3f6dd1",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "885d7282-d094-4920-893a-77bdb4596be8",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "6c0538a2-ffd0-4e60-bcb6-bb1b968fddb5",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "0c859448-e8b9-4596-8417-4c427e6b742b",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        }
-      ],
-      "Name": "新课表",
-      "IsOverlay": false,
-      "OverlaySourceId": null,
-      "OverlaySetupTime": "2026-09-03T22:07:45.034019+08:00",
-      "IsEnabled": true,
-      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+    "3903902c-af75-4ef2-910b-88f1b57071e6": {
+      "Name": "生物",
+      "Initial": "生",
+      "TeacherName": "程冰清",
+      "IsOutDoor": false,
       "AttachedObjects": {
 
       },
       "IsActive": false
     },
-    "56c3263c-b807-4d90-967d-78a0308c7570": {
-      "TimeLayoutId": "ee071a7a-52eb-4259-b409-f525120aa70a",
-      "TimeRule": {
-        "WeekDay": 0,
-        "WeekCountDiv": 0,
-        "WeekCountDivTotal": 2,
-        "IsActive": false
-      },
-      "Classes": [
-        {
-          "SubjectId": "00000000-0000-0000-0000-000000000000",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "00000000-0000-0000-0000-000000000000",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "00000000-0000-0000-0000-000000000000",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "00000000-0000-0000-0000-000000000000",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "00000000-0000-0000-0000-000000000000",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "00000000-0000-0000-0000-000000000000",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "00000000-0000-0000-0000-000000000000",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "00000000-0000-0000-0000-000000000000",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "00000000-0000-0000-0000-000000000000",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        }
-      ],
-      "Name": "新课表",
-      "IsOverlay": false,
-      "OverlaySourceId": null,
-      "OverlaySetupTime": "2026-09-03T22:07:45.0343584+08:00",
-      "IsEnabled": true,
-      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+    "72b649a5-3294-4dca-be98-5b73c5e8ade0": {
+      "Name": "地理",
+      "Initial": "地",
+      "TeacherName": "韩力",
+      "IsOutDoor": false,
       "AttachedObjects": {
 
       },
       "IsActive": false
     },
-    "7ec2cb12-c59f-40c6-94fc-61ba00850f99": {
-      "TimeLayoutId": "ee071a7a-52eb-4259-b409-f525120aa70a",
-      "TimeRule": {
-        "WeekDay": 2,
-        "WeekCountDiv": 2,
-        "WeekCountDivTotal": 2,
-        "IsActive": false
+    "1dadb997-f814-46c7-bb33-c1fad85e58bd": {
+      "Name": "信息技术",
+      "Initial": "信",
+      "TeacherName": "吴夏云",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
       },
-      "Classes": [
-        {
-          "SubjectId": "72b649a5-3294-4dca-be98-5b73c5e8ade0",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
+      "IsActive": false
+    },
+    "66719bff-c5ba-495d-88a4-9c81bad942e7": {
+      "Name": "体育",
+      "Initial": "体",
+      "TeacherName": "张胜敢",
+      "IsOutDoor": false,
+      "AttachedObjects": {
 
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "3903902c-af75-4ef2-910b-88f1b57071e6",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
+      },
+      "IsActive": false
+    },
+    "fa4e51f2-78f9-45cc-a0c0-cb192630f4ea": {
+      "Name": "自习",
+      "Initial": "自",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
 
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "885d7282-d094-4920-893a-77bdb4596be8",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
+      },
+      "IsActive": false
+    },
+    "8944ea64-1633-4003-bc8f-0838ed81cb32": {
+      "Name": "通用技术",
+      "Initial": "技",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
 
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "66719bff-c5ba-495d-88a4-9c81bad942e7",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
+      },
+      "IsActive": false
+    },
+    "35b44bac-609b-4e2c-b9e8-325055d36dec": {
+      "Name": "音乐",
+      "Initial": "音",
+      "TeacherName": "邹燕丽",
+      "IsOutDoor": false,
+      "AttachedObjects": {
 
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "bd45f4d1-13b1-4099-87c5-ccea2e3f6dd1",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
+      },
+      "IsActive": false
+    },
+    "6c0538a2-ffd0-4e60-bcb6-bb1b968fddb5": {
+      "Name": "美术",
+      "Initial": "美",
+      "TeacherName": "周芳霞",
+      "IsOutDoor": false,
+      "AttachedObjects": {
 
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "00000000-0000-0000-0000-000000000000",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
+      },
+      "IsActive": false
+    },
+    "81d89ea6-cfe8-4c7d-a62c-bed4c7585391": {
+      "Name": "选修课",
+      "Initial": "选",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
 
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "cc74d340-f5b7-4b87-9332-bf65cae887ca",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
+      },
+      "IsActive": false
+    },
+    "9f6d9fd5-2ea4-40b3-bd54-49953369d1b8": {
+      "Name": "社团",
+      "Initial": "社",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
 
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "9e0fc9ea-8322-4c17-8505-b8f77dc723ba",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
+      },
+      "IsActive": false
+    },
+    "3fff8fcd-5ee8-42be-a783-63b55af684f9": {
+      "Name": "心理",
+      "Initial": "心",
+      "TeacherName": "林丽梅",
+      "IsOutDoor": false,
+      "AttachedObjects": {
 
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "00000000-0000-0000-0000-000000000000",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
+      },
+      "IsActive": false
+    },
+    "b3e36532-f48e-4d90-9dc3-8745c06d4251": {
+      "Name": "早读",
+      "Initial": "早",
+      "TeacherName": "",
+      "IsOutDoor": false,
+      "AttachedObjects": {
 
-          },
-          "IsActive": false
-        }
-      ],
-      "Name": "新课表（临时层）",
-      "IsOverlay": false,
-      "OverlaySourceId": null,
-      "OverlaySetupTime": "2026-09-03T22:07:45.034768+08:00",
-      "IsEnabled": true,
-      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+      },
+      "IsActive": false
+    },
+    "9e0fc9ea-8322-4c17-8505-b8f77dc723ba": {
+      "Name": "班会",
+      "Initial": "班",
+      "TeacherName": "郑赛琴",
+      "IsOutDoor": false,
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "09bf5620-3535-4f4c-8fed-d9d1146cab71": {
+      "Name": "周测",
+      "Initial": "测",
+      "TeacherName": "",
+      "IsOutDoor": false,
       "AttachedObjects": {
 
       },
       "IsActive": false
     }
+  },
+  "IsOverlayClassPlanEnabled": false,
+  "OverlayClassPlanId": null,
+  "TempClassPlanId": null,
+  "TempClassPlanSetupTime": "2026-09-03T22:06:57.8662126+08:00",
+  "ClassPlanGroups": {
+    "acaf4ef0-e261-4262-b941-34ea93cb4369": {
+      "Name": "默认",
+      "IsGlobal": false,
+      "IsActive": false
+    },
+    "00000000-0000-0000-0000-000000000000": {
+      "Name": "全局课表群",
+      "IsGlobal": true,
+      "IsActive": false
+    }
+  },
+  "SelectedClassPlanGroupId": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+  "TempClassPlanGroupId": null,
+  "TempClassPlanGroupExpireTime": "2026-09-03T22:06:57.8662291+08:00",
+  "IsTempClassPlanGroupEnabled": false,
+  "TempClassPlanGroupType": 1,
+  "Id": "43d23ef2-869d-4cd0-b03d-4e7c4a6dda3f",
+  "OrderedSchedules": {
+
+  },
+  "IsActive": false
+}
